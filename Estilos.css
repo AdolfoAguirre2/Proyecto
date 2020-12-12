@@ -1,0 +1,13 @@
+body{
+    font-family:arial;
+    font-size:13px;
+
+}
+#divContenedor {
+    
+    position:relative;
+    height:500px;
+    width:550px;
+    margin:450 auto;
+    
+}
